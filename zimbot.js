@@ -485,7 +485,7 @@ randek = jsonDrips[randIndex];
     }, 
     {
       scheduled: true,
-      timezone: 'ASIA/INDIA'
+      timezone: 'Africa/Harare'
      }
     )
 //thum
